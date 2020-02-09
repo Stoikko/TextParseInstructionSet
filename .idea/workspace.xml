@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20044c0f-2a04-4d2a-8543-7ab2d3759dba" name="Default Changelist" comment="" />
+    <list default="true" id="20044c0f-2a04-4d2a-8543-7ab2d3759dba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XVGV1f7QtFkIViKarkCU28QHVJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -80,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581123867051</updated>
       <workItem from="1581123869753" duration="40254000" />
-      <workItem from="1581261870403" duration="111000" />
+      <workItem from="1581261870403" duration="414000" />
     </task>
     <servers />
   </component>
