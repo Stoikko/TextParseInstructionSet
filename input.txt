@@ -1,0 +1,6 @@
+//comment lines must start with two slashes and no spaces
+data:
+
+actions:
+//strings in actions section can have quotes or not
+    stringToMem(r3, "keySt", "test text")
