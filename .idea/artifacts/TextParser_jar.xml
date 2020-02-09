@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="TextParser:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TextParser_jar</output-path>
+    <output-path>$PROJECT_DIR$/TextParser_jar</output-path>
     <root id="archive" name="TextParser.jar">
       <element id="module-output" name="TextParser" />
       <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
